@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brenotxm
-- 👀 I’m interested in ... Desenv. Java/Java Script
+- 👀 I’m interested in ... Desenv. Java/Java Script, Banco de dados SQL/MYSQL
   - 🌱 I’m currently learning ... Java Script
 - 📫 How to reach me ... Wpp (33)99158-6138
 
